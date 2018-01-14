@@ -7,3 +7,4 @@ if board[index] == 'X' || bord[index] == 'O'
    else board[index] == nil
      return false
 end
+end
